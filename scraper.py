@@ -63,7 +63,8 @@ while(running):
     
     df = pd.DataFrame(business_list)
     df['url'] = 'https://www.google.com/maps/place/?q=place_id:' + df['place_id']
-    df.to_excel(f'{search_string}.xlsx', index=False)
-    print(f'Exported as {search_string}.xlsx')
+    file_name = input('Input file-name for <file-name>.xlsx (no whitespace, only - & _): ')
+    df.to_excel(f'{file_name}.xlsx', index=False)
+    print(f'Exported as {file_name}.xlsx')
 
     running = input('Continue? (y/n): ').lower() == 'y'
