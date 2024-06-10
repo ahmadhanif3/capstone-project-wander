@@ -1,23 +1,36 @@
 import os
 import pandas as pd
 
-# Specify the folder containing the CSV files
-folder_path = os.path.dirname(os.path.abspath(__file__))
+# Define the path to the main folder
+main_folder_path = 'C:\\Users\\ACER\\Documents\\Capstone\\Hotel_DS'
 
-# Get a list of all CSV files in the folder
-csv_files = [f for f in os.listdir(folder_path) if f.endswith('.csv') ]
+# Get a list of all folders within the main folder
+folders = [f for f in os.listdir(main_folder_path) if os.path.isdir(os.path.join(main_folder_path, f))]
 
-# Initialize an empty DataFrame
-combined_df = pd.DataFrame()
-
-# Loop through the list of CSV files and append them to the combined DataFrame
-for csv_file in csv_files:
-    file_path = os.path.join(folder_path, csv_file)
-    df = pd.read_csv(file_path)
-    combined_df = pd.concat([combined_df, df], ignore_index=True)
-
-
-# Save the combined DataFrame to a new CSV file
-combined_df.to_csv(os.path.join(folder_path, 'Merged.csv'), index=False)
-
-print(f'Merged {len(csv_files)} files ')
+# Iterate through each folder
+for folder in folders:
+    folder_path = os.path.join(main_folder_path, folder)
+    
+    # Get a list of all CSV files in the current folder
+    csv_files = [f for f in os.listdir(folder_path) if f.endswith('.csv')]
+    
+    # List to hold dataframes
+    dfs = []
+    
+    # Read each CSV file and append it to the list of dataframes
+    for csv_file in csv_files:
+        csv_path = os.path.join(folder_path, csv_file)
+        df = pd.read_csv(csv_path)
+        dfs.append(df)
+    
+    # Concatenate all dataframes in the list
+    if dfs:  # Check if there are any dataframes to concatenate
+        merged_df = pd.concat(dfs, ignore_index=True)
+        
+        # Save the merged dataframe to a new CSV file
+        merged_csv_path = os.path.join(folder_path, f'{folder}_merged.csv')
+        merged_df.to_csv(merged_csv_path, index=False)
+        
+        print(f'Merged CSV for folder {folder} saved as {merged_csv_path}')
+    else:
+        print(f'No CSV files found in folder {folder}')
