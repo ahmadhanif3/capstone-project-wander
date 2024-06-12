@@ -1,0 +1,2910 @@
+Processing TA_DS_clean\Kabupaten_Aceh_Barat.csv
+Data points above first quartile rating: 50
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 50
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Aceh_Barat_Daya.csv
+Data points above first quartile rating: 38
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 38
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Aceh_Besar.csv
+Data points above first quartile rating: 122
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 122
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Aceh_Jaya.csv
+Data points above first quartile rating: 140
+Data points below first quartile rating: 47
+Data points above first quartile user ratings total: 120
+Data points below first quartile user ratings total: 40
+
+Processing TA_DS_clean\Kabupaten_Aceh_Selatan.csv
+Data points above first quartile rating: 48
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 48
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Aceh_Singkil.csv
+Data points above first quartile rating: 73
+Data points below first quartile rating: 25
+Data points above first quartile user ratings total: 73
+Data points below first quartile user ratings total: 25
+
+Processing TA_DS_clean\Kabupaten_Aceh_Tamiang.csv
+Data points above first quartile rating: 74
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 74
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Aceh_Tengah.csv
+Data points above first quartile rating: 69
+Data points below first quartile rating: 23
+Data points above first quartile user ratings total: 62
+Data points below first quartile user ratings total: 19
+
+Processing TA_DS_clean\Kabupaten_Aceh_Tenggara.csv
+Data points above first quartile rating: 65
+Data points below first quartile rating: 22
+Data points above first quartile user ratings total: 65
+Data points below first quartile user ratings total: 19
+
+Processing TA_DS_clean\Kabupaten_Aceh_Timur.csv
+Data points above first quartile rating: 50
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 50
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Aceh_Utara.csv
+Data points above first quartile rating: 104
+Data points below first quartile rating: 35
+Data points above first quartile user ratings total: 104
+Data points below first quartile user ratings total: 35
+
+Processing TA_DS_clean\Kabupaten_Agam.csv
+Data points above first quartile rating: 221
+Data points below first quartile rating: 73
+Data points above first quartile user ratings total: 181
+Data points below first quartile user ratings total: 68
+
+Processing TA_DS_clean\Kabupaten_Alor.csv
+Data points above first quartile rating: 81
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 81
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Asahan.csv
+Data points above first quartile rating: 158
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 158
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Asmat.csv
+Data points above first quartile rating: 48
+Data points below first quartile rating: 15
+Data points above first quartile user ratings total: 48
+Data points below first quartile user ratings total: 11
+
+Processing TA_DS_clean\Kabupaten_Badung.csv
+Data points above first quartile rating: 119
+Data points below first quartile rating: 40
+Data points above first quartile user ratings total: 109
+Data points below first quartile user ratings total: 33
+
+Processing TA_DS_clean\Kabupaten_Balangan.csv
+Data points above first quartile rating: 69
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 69
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bandung.csv
+Data points above first quartile rating: 553
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 553
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bandung_Barat.csv
+Data points above first quartile rating: 380
+Data points below first quartile rating: 124
+Data points above first quartile user ratings total: 319
+Data points below first quartile user ratings total: 101
+
+Processing TA_DS_clean\Kabupaten_Banggai.csv
+Data points above first quartile rating: 131
+Data points below first quartile rating: 44
+Data points above first quartile user ratings total: 106
+Data points below first quartile user ratings total: 37
+
+Processing TA_DS_clean\Kabupaten_Banggai_Kepulauan.csv
+Data points above first quartile rating: 96
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 96
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Banggai_Laut.csv
+Data points above first quartile rating: 62
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 62
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bangka.csv
+Data points above first quartile rating: 137
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 137
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bangkalan.csv
+Data points above first quartile rating: 140
+Data points below first quartile rating: 47
+Data points above first quartile user ratings total: 117
+Data points below first quartile user ratings total: 44
+
+Processing TA_DS_clean\Kabupaten_Bangka_Barat.csv
+Data points above first quartile rating: 95
+Data points below first quartile rating: 32
+Data points above first quartile user ratings total: 75
+Data points below first quartile user ratings total: 32
+
+Processing TA_DS_clean\Kabupaten_Bangka_Selatan.csv
+Data points above first quartile rating: 107
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 107
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bangka_Tengah.csv
+Data points above first quartile rating: 137
+Data points below first quartile rating: 46
+Data points above first quartile user ratings total: 116
+Data points below first quartile user ratings total: 44
+
+Processing TA_DS_clean\Kabupaten_Bangli.csv
+Data points above first quartile rating: 114
+Data points below first quartile rating: 36
+Data points above first quartile user ratings total: 109
+Data points below first quartile user ratings total: 32
+
+Processing TA_DS_clean\Kabupaten_Banjar.csv
+Data points above first quartile rating: 197
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 197
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Banjarnegara.csv
+Data points above first quartile rating: 277
+Data points below first quartile rating: 93
+Data points above first quartile user ratings total: 230
+Data points below first quartile user ratings total: 86
+
+Processing TA_DS_clean\Kabupaten_Bantaeng.csv
+Data points above first quartile rating: 64
+Data points below first quartile rating: 22
+Data points above first quartile user ratings total: 54
+Data points below first quartile user ratings total: 19
+
+Processing TA_DS_clean\Kabupaten_Banyuasin.csv
+Data points above first quartile rating: 135
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 135
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Banyumas.csv
+Data points above first quartile rating: 469
+Data points below first quartile rating: 157
+Data points above first quartile user ratings total: 379
+Data points below first quartile user ratings total: 143
+
+Processing TA_DS_clean\Kabupaten_Banyuwangi.csv
+Data points above first quartile rating: 458
+Data points below first quartile rating: 144
+Data points above first quartile user ratings total: 367
+Data points below first quartile user ratings total: 138
+
+Processing TA_DS_clean\Kabupaten_Barito_Kuala.csv
+Data points above first quartile rating: 54
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 54
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Barito_Selatan.csv
+Data points above first quartile rating: 128
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 128
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Barito_Timur.csv
+Data points above first quartile rating: 108
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 108
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Barito_Utara.csv
+Data points above first quartile rating: 114
+Data points below first quartile rating: 36
+Data points above first quartile user ratings total: 100
+Data points below first quartile user ratings total: 35
+
+Processing TA_DS_clean\Kabupaten_Barru.csv
+Data points above first quartile rating: 78
+Data points below first quartile rating: 26
+Data points above first quartile user ratings total: 67
+Data points below first quartile user ratings total: 23
+
+Processing TA_DS_clean\Kabupaten_Batang.csv
+Data points above first quartile rating: 193
+Data points below first quartile rating: 65
+Data points above first quartile user ratings total: 169
+Data points below first quartile user ratings total: 64
+
+Processing TA_DS_clean\Kabupaten_Batang_Hari.csv
+Data points above first quartile rating: 56
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 56
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Batu_Bara.csv
+Data points above first quartile rating: 101
+Data points below first quartile rating: 33
+Data points above first quartile user ratings total: 86
+Data points below first quartile user ratings total: 32
+
+Processing TA_DS_clean\Kabupaten_Bekasi.csv
+Data points above first quartile rating: 367
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 367
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Belitung.csv
+Data points above first quartile rating: 128
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 128
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Belitung_Timur.csv
+Data points above first quartile rating: 80
+Data points below first quartile rating: 26
+Data points above first quartile user ratings total: 69
+Data points below first quartile user ratings total: 26
+
+Processing TA_DS_clean\Kabupaten_Belu.csv
+Data points above first quartile rating: 80
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 80
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bener_Meriah.csv
+Data points above first quartile rating: 73
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 73
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bengkalis.csv
+Data points above first quartile rating: 93
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 93
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bengkayang.csv
+Data points above first quartile rating: 114
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 114
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Berau.csv
+Data points above first quartile rating: 149
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 149
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bima.csv
+Data points above first quartile rating: 247
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 247
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bintan.csv
+Data points above first quartile rating: 87
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 87
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bireuen.csv
+Data points above first quartile rating: 87
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 87
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Blitar.csv
+Data points above first quartile rating: 381
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 381
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Blora.csv
+Data points above first quartile rating: 162
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 162
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Boalemo.csv
+Data points above first quartile rating: 54
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 54
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bogor.csv
+Data points above first quartile rating: 1038
+Data points below first quartile rating: 346
+Data points above first quartile user ratings total: 855
+Data points below first quartile user ratings total: 331
+
+Processing TA_DS_clean\Kabupaten_Bojonegoro.csv
+Data points above first quartile rating: 251
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 251
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bolaang_Mongondow.csv
+Data points above first quartile rating: 118
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 118
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bolaang_Mongondow_Selatan.csv
+Data points above first quartile rating: 56
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 56
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bolaang_Mongondow_Timur.csv
+Data points above first quartile rating: 72
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 72
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bolaang_Mongondow_Utara.csv
+Data points above first quartile rating: 42
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 42
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bombana.csv
+Data points above first quartile rating: 61
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 61
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bondowoso.csv
+Data points above first quartile rating: 171
+Data points below first quartile rating: 58
+Data points above first quartile user ratings total: 153
+Data points below first quartile user ratings total: 41
+
+Processing TA_DS_clean\Kabupaten_Bone.csv
+Data points above first quartile rating: 124
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 124
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bone_Bolango.csv
+Data points above first quartile rating: 123
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 123
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Boven_Digoel.csv
+Data points above first quartile rating: 10
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 10
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Boyolali.csv
+Data points above first quartile rating: 340
+Data points below first quartile rating: 112
+Data points above first quartile user ratings total: 287
+Data points below first quartile user ratings total: 112
+
+Processing TA_DS_clean\Kabupaten_Brebes.csv
+Data points above first quartile rating: 269
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 269
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Buleleng.csv
+Data points above first quartile rating: 269
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 269
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bulukumba.csv
+Data points above first quartile rating: 136
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 136
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bulungan.csv
+Data points above first quartile rating: 65
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 65
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Bungo.csv
+Data points above first quartile rating: 51
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 51
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Buol.csv
+Data points above first quartile rating: 37
+Data points below first quartile rating: 12
+Data points above first quartile user ratings total: 26
+Data points below first quartile user ratings total: 12
+
+Processing TA_DS_clean\Kabupaten_Buru.csv
+Data points above first quartile rating: 48
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 48
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Buru_Selatan.csv
+Data points above first quartile rating: 46
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 46
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Buton.csv
+Data points above first quartile rating: 143
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 143
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Buton_Utara.csv
+Data points above first quartile rating: 115
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 115
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Ciamis.csv
+Data points above first quartile rating: 460
+Data points below first quartile rating: 151
+Data points above first quartile user ratings total: 352
+Data points below first quartile user ratings total: 151
+
+Processing TA_DS_clean\Kabupaten_Cianjur.csv
+Data points above first quartile rating: 482
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 482
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Cilacap.csv
+Data points above first quartile rating: 332
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 332
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Cirebon.csv
+Data points above first quartile rating: 225
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 225
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Dairi.csv
+Data points above first quartile rating: 181
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 181
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Deiyai.csv
+Data points above first quartile rating: 15
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 15
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Deli_Serdang.csv
+Data points above first quartile rating: 212
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 212
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Demak.csv
+Data points above first quartile rating: 123
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 123
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Dharmasraya.csv
+Data points above first quartile rating: 34
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 34
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Dogiyai.csv
+Data points above first quartile rating: 24
+Data points below first quartile rating: 8
+Data points above first quartile user ratings total: 24
+Data points below first quartile user ratings total: 8
+
+Processing TA_DS_clean\Kabupaten_Dompu.csv
+Data points above first quartile rating: 120
+Data points below first quartile rating: 41
+Data points above first quartile user ratings total: 125
+Data points below first quartile user ratings total: 31
+
+Processing TA_DS_clean\Kabupaten_Donggala.csv
+Data points above first quartile rating: 132
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 132
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Empat_Lawang.csv
+Data points above first quartile rating: 27
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 27
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Ende.csv
+Data points above first quartile rating: 127
+Data points below first quartile rating: 43
+Data points above first quartile user ratings total: 96
+Data points below first quartile user ratings total: 42
+
+Processing TA_DS_clean\Kabupaten_Enrekang.csv
+Data points above first quartile rating: 119
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 119
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Fakfak.csv
+Data points above first quartile rating: 36
+Data points below first quartile rating: 12
+Data points above first quartile user ratings total: 27
+Data points below first quartile user ratings total: 11
+
+Processing TA_DS_clean\Kabupaten_Flores_Timur.csv
+Data points above first quartile rating: 101
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 101
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Garut.csv
+Data points above first quartile rating: 501
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 501
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Gayo_Lues.csv
+Data points above first quartile rating: 101
+Data points below first quartile rating: 33
+Data points above first quartile user ratings total: 86
+Data points below first quartile user ratings total: 30
+
+Processing TA_DS_clean\Kabupaten_Gianyar.csv
+Data points above first quartile rating: 184
+Data points below first quartile rating: 61
+Data points above first quartile user ratings total: 179
+Data points below first quartile user ratings total: 50
+
+Processing TA_DS_clean\Kabupaten_Gorontalo.csv
+Data points above first quartile rating: 168
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 168
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Gorontalo_Utara.csv
+Data points above first quartile rating: 73
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 73
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Gowa.csv
+Data points above first quartile rating: 266
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 266
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Gresik.csv
+Data points above first quartile rating: 209
+Data points below first quartile rating: 67
+Data points above first quartile user ratings total: 184
+Data points below first quartile user ratings total: 66
+
+Processing TA_DS_clean\Kabupaten_Grobogan.csv
+Data points above first quartile rating: 281
+Data points below first quartile rating: 94
+Data points above first quartile user ratings total: 235
+Data points below first quartile user ratings total: 89
+
+Processing TA_DS_clean\Kabupaten_Gunung_Mas.csv
+Data points above first quartile rating: 48
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 48
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Halmahera_Barat.csv
+Data points above first quartile rating: 41
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 41
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Halmahera_Selatan.csv
+Data points above first quartile rating: 92
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 92
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Halmahera_Tengah.csv
+Data points above first quartile rating: 57
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 57
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Halmahera_Utara.csv
+Data points above first quartile rating: 95
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 95
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Hulu_Sungai_Selatan.csv
+Data points above first quartile rating: 98
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 98
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Hulu_Sungai_Tengah.csv
+Data points above first quartile rating: 83
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 83
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Hulu_Sungai_Utara.csv
+Data points above first quartile rating: 80
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 80
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Humbang_Hasundutan.csv
+Data points above first quartile rating: 128
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 128
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Indragiri_Hilir.csv
+Data points above first quartile rating: 41
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 41
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Indragiri_Hulu.csv
+Data points above first quartile rating: 85
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 85
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Indramayu.csv
+Data points above first quartile rating: 201
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 201
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Intan_Jaya.csv
+Data points above first quartile rating: 6
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 6
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Jayapura.csv
+Data points above first quartile rating: 114
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 114
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Jayawijaya.csv
+Data points above first quartile rating: 51
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 51
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Jember.csv
+Data points above first quartile rating: 291
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 291
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Jembrana.csv
+Data points above first quartile rating: 95
+Data points below first quartile rating: 33
+Data points above first quartile user ratings total: 87
+Data points below first quartile user ratings total: 28
+
+Processing TA_DS_clean\Kabupaten_Jeneponto.csv
+Data points above first quartile rating: 92
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 92
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Jepara.csv
+Data points above first quartile rating: 293
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 293
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Jombang.csv
+Data points above first quartile rating: 183
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 183
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kaimana.csv
+Data points above first quartile rating: 35
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 35
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kampar.csv
+Data points above first quartile rating: 199
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 199
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kapuas.csv
+Data points above first quartile rating: 75
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 75
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kapuas_Hulu.csv
+Data points above first quartile rating: 75
+Data points below first quartile rating: 25
+Data points above first quartile user ratings total: 59
+Data points below first quartile user ratings total: 25
+
+Processing TA_DS_clean\Kabupaten_Karanganyar.csv
+Data points above first quartile rating: 308
+Data points below first quartile rating: 103
+Data points above first quartile user ratings total: 255
+Data points below first quartile user ratings total: 95
+
+Processing TA_DS_clean\Kabupaten_Karangasem.csv
+Data points above first quartile rating: 219
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 219
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Karawang.csv
+Data points above first quartile rating: 270
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 270
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Karimun.csv
+Data points above first quartile rating: 71
+Data points below first quartile rating: 23
+Data points above first quartile user ratings total: 65
+Data points below first quartile user ratings total: 21
+
+Processing TA_DS_clean\Kabupaten_Karo.csv
+Data points above first quartile rating: 172
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 172
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Katingan.csv
+Data points above first quartile rating: 37
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 37
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kayong_Utara.csv
+Data points above first quartile rating: 86
+Data points below first quartile rating: 29
+Data points above first quartile user ratings total: 63
+Data points below first quartile user ratings total: 25
+
+Processing TA_DS_clean\Kabupaten_Kebumen.csv
+Data points above first quartile rating: 379
+Data points below first quartile rating: 125
+Data points above first quartile user ratings total: 325
+Data points below first quartile user ratings total: 106
+
+Processing TA_DS_clean\Kabupaten_Kediri.csv
+Data points above first quartile rating: 298
+Data points below first quartile rating: 95
+Data points above first quartile user ratings total: 254
+Data points below first quartile user ratings total: 92
+
+Processing TA_DS_clean\Kabupaten_Keerom.csv
+Data points above first quartile rating: 41
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 41
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kendal.csv
+Data points above first quartile rating: 233
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 233
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kepulauan_Aru.csv
+Data points above first quartile rating: 14
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 14
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kepulauan_Mentawai.csv
+Data points above first quartile rating: 41
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 41
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kepulauan_Meranti.csv
+Data points above first quartile rating: 74
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 74
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kepulauan_Sangihe.csv
+Data points above first quartile rating: 79
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 79
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kepulauan_Selayar.csv
+Data points above first quartile rating: 93
+Data points below first quartile rating: 31
+Data points above first quartile user ratings total: 93
+Data points below first quartile user ratings total: 31
+
+Processing TA_DS_clean\Kabupaten_Kepulauan_Sula.csv
+Data points above first quartile rating: 29
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 29
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kepulauan_Talaud.csv
+Data points above first quartile rating: 54
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 54
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kepulauan_Yapen.csv
+Data points above first quartile rating: 28
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 28
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kerinci.csv
+Data points above first quartile rating: 133
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 133
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Ketapang.csv
+Data points above first quartile rating: 90
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 90
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Klaten.csv
+Data points above first quartile rating: 298
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 298
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Klungkung.csv
+Data points above first quartile rating: 125
+Data points below first quartile rating: 41
+Data points above first quartile user ratings total: 126
+Data points below first quartile user ratings total: 21
+
+Processing TA_DS_clean\Kabupaten_Kolaka.csv
+Data points above first quartile rating: 98
+Data points below first quartile rating: 33
+Data points above first quartile user ratings total: 81
+Data points below first quartile user ratings total: 33
+
+Processing TA_DS_clean\Kabupaten_Kolaka_Timur.csv
+Data points above first quartile rating: 95
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 95
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kolaka_Utara.csv
+Data points above first quartile rating: 50
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 50
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Konawe.csv
+Data points above first quartile rating: 100
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 100
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Konawe_Kepulauan.csv
+Data points above first quartile rating: 26
+Data points below first quartile rating: 9
+Data points above first quartile user ratings total: 26
+Data points below first quartile user ratings total: 9
+
+Processing TA_DS_clean\Kabupaten_Konawe_Selatan.csv
+Data points above first quartile rating: 132
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 132
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Konawe_Utara.csv
+Data points above first quartile rating: 108
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 108
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kotabaru.csv
+Data points above first quartile rating: 163
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 163
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kotawaringin_Barat.csv
+Data points above first quartile rating: 111
+Data points below first quartile rating: 37
+Data points above first quartile user ratings total: 92
+Data points below first quartile user ratings total: 34
+
+Processing TA_DS_clean\Kabupaten_Kotawaringin_Timur.csv
+Data points above first quartile rating: 133
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 133
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kuantan_Singingi.csv
+Data points above first quartile rating: 86
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 86
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kubu_Raya.csv
+Data points above first quartile rating: 70
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 70
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kudus.csv
+Data points above first quartile rating: 120
+Data points below first quartile rating: 40
+Data points above first quartile user ratings total: 110
+Data points below first quartile user ratings total: 37
+
+Processing TA_DS_clean\Kabupaten_Kuningan.csv
+Data points above first quartile rating: 346
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 346
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kupang.csv
+Data points above first quartile rating: 225
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 225
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kutai_Barat.csv
+Data points above first quartile rating: 80
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 80
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kutai_Kartanegara.csv
+Data points above first quartile rating: 271
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 271
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Kutai_Timur.csv
+Data points above first quartile rating: 126
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 126
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Labuhanbatu.csv
+Data points above first quartile rating: 85
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 85
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Labuhanbatu_Selatan.csv
+Data points above first quartile rating: 47
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 47
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Labuhanbatu_Utara.csv
+Data points above first quartile rating: 69
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 69
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lahat.csv
+Data points above first quartile rating: 104
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 104
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lamandau.csv
+Data points above first quartile rating: 66
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 66
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lamongan.csv
+Data points above first quartile rating: 196
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 196
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lampung_Barat.csv
+Data points above first quartile rating: 126
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 126
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lampung_Selatan.csv
+Data points above first quartile rating: 277
+Data points below first quartile rating: 90
+Data points above first quartile user ratings total: 240
+Data points below first quartile user ratings total: 85
+
+Processing TA_DS_clean\Kabupaten_Lampung_Tengah.csv
+Data points above first quartile rating: 145
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 145
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lampung_Timur.csv
+Data points above first quartile rating: 166
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 166
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lampung_Utara.csv
+Data points above first quartile rating: 92
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 92
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Landak.csv
+Data points above first quartile rating: 61
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 61
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Langkat.csv
+Data points above first quartile rating: 223
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 223
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lanny_Jaya.csv
+Data points above first quartile rating: 53
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 53
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lebak.csv
+Data points above first quartile rating: 509
+Data points below first quartile rating: 170
+Data points above first quartile user ratings total: 413
+Data points below first quartile user ratings total: 159
+
+Processing TA_DS_clean\Kabupaten_Lembata.csv
+Data points above first quartile rating: 53
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 53
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lima_Puluh_Kota.csv
+Data points above first quartile rating: 159
+Data points below first quartile rating: 53
+Data points above first quartile user ratings total: 131
+Data points below first quartile user ratings total: 48
+
+Processing TA_DS_clean\Kabupaten_Lingga.csv
+Data points above first quartile rating: 56
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 56
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lombok_Barat.csv
+Data points above first quartile rating: 252
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 252
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lombok_Tengah.csv
+Data points above first quartile rating: 234
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 234
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lombok_Timur.csv
+Data points above first quartile rating: 351
+Data points below first quartile rating: 117
+Data points above first quartile user ratings total: 301
+Data points below first quartile user ratings total: 96
+
+Processing TA_DS_clean\Kabupaten_Lombok_Utara.csv
+Data points above first quartile rating: 136
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 136
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Lumajang.csv
+Data points above first quartile rating: 214
+Data points below first quartile rating: 71
+Data points above first quartile user ratings total: 193
+Data points below first quartile user ratings total: 60
+
+Processing TA_DS_clean\Kabupaten_Luwu.csv
+Data points above first quartile rating: 147
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 147
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Luwu_Timur.csv
+Data points above first quartile rating: 115
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 115
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Luwu_Utara.csv
+Data points above first quartile rating: 86
+Data points below first quartile rating: 28
+Data points above first quartile user ratings total: 65
+Data points below first quartile user ratings total: 28
+
+Processing TA_DS_clean\Kabupaten_Madiun.csv
+Data points above first quartile rating: 169
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 169
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Magelang.csv
+Data points above first quartile rating: 408
+Data points below first quartile rating: 131
+Data points above first quartile user ratings total: 354
+Data points below first quartile user ratings total: 127
+
+Processing TA_DS_clean\Kabupaten_Magetan.csv
+Data points above first quartile rating: 195
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 195
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Mahakam_Ulu.csv
+Data points above first quartile rating: 11
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 11
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Majalengka.csv
+Data points above first quartile rating: 230
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 230
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Majene.csv
+Data points above first quartile rating: 62
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 62
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Malaka.csv
+Data points above first quartile rating: 46
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 46
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Malang.csv
+Data points above first quartile rating: 555
+Data points below first quartile rating: 186
+Data points above first quartile user ratings total: 480
+Data points below first quartile user ratings total: 168
+
+Processing TA_DS_clean\Kabupaten_Malinau.csv
+Data points above first quartile rating: 38
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 38
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Maluku_Barat_Daya.csv
+Data points above first quartile rating: 26
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 26
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Maluku_Tengah.csv
+Data points above first quartile rating: 56
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 56
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Maluku_Tenggara.csv
+Data points above first quartile rating: 54
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 54
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Maluku_Tenggara_Barat.csv
+Data points above first quartile rating: 40
+Data points below first quartile rating: 14
+Data points above first quartile user ratings total: 40
+Data points below first quartile user ratings total: 14
+
+Processing TA_DS_clean\Kabupaten_Mamasa.csv
+Data points above first quartile rating: 67
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 67
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Mamberamo_Raya.csv
+Data points above first quartile rating: 5
+Data points below first quartile rating: 2
+Data points above first quartile user ratings total: 5
+Data points below first quartile user ratings total: 2
+
+Processing TA_DS_clean\Kabupaten_Mamberamo_Tengah.csv
+Data points above first quartile rating: 4
+Data points below first quartile rating: 2
+Data points above first quartile user ratings total: 4
+Data points below first quartile user ratings total: 2
+
+Processing TA_DS_clean\Kabupaten_Mamuju.csv
+Data points above first quartile rating: 90
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 90
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Mamuju_Utara.csv
+Data points above first quartile rating: 67
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 67
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Mandailing_Natal.csv
+Data points above first quartile rating: 135
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 135
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Manggarai.csv
+Data points above first quartile rating: 126
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 126
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Manggarai_Barat.csv
+Data points above first quartile rating: 164
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 164
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Manggarai_Timur.csv
+Data points above first quartile rating: 95
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 95
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Manokwari.csv
+Data points above first quartile rating: 65
+Data points below first quartile rating: 22
+Data points above first quartile user ratings total: 63
+Data points below first quartile user ratings total: 15
+
+Processing TA_DS_clean\Kabupaten_Manokwari_Selatan.csv
+Data points above first quartile rating: 20
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 20
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Mappi.csv
+Data points above first quartile rating: 5
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 5
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Maros.csv
+Data points above first quartile rating: 152
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 152
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Maybrat.csv
+Data points above first quartile rating: 11
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 11
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Melawi.csv
+Data points above first quartile rating: 67
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 67
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Mempawah.csv
+Data points above first quartile rating: 82
+Data points below first quartile rating: 27
+Data points above first quartile user ratings total: 64
+Data points below first quartile user ratings total: 26
+
+Processing TA_DS_clean\Kabupaten_Merangin.csv
+Data points above first quartile rating: 107
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 107
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Merauke.csv
+Data points above first quartile rating: 53
+Data points below first quartile rating: 17
+Data points above first quartile user ratings total: 47
+Data points below first quartile user ratings total: 17
+
+Processing TA_DS_clean\Kabupaten_Mesuji.csv
+Data points above first quartile rating: 34
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 34
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Mimika.csv
+Data points above first quartile rating: 22
+Data points below first quartile rating: 8
+Data points above first quartile user ratings total: 21
+Data points below first quartile user ratings total: 7
+
+Processing TA_DS_clean\Kabupaten_Minahasa.csv
+Data points above first quartile rating: 256
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 256
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Minahasa_Selatan.csv
+Data points above first quartile rating: 120
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 120
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Minahasa_Tenggara.csv
+Data points above first quartile rating: 81
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 81
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Minahasa_Utara.csv
+Data points above first quartile rating: 178
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 178
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Mojokerto.csv
+Data points above first quartile rating: 171
+Data points below first quartile rating: 57
+Data points above first quartile user ratings total: 157
+Data points below first quartile user ratings total: 50
+
+Processing TA_DS_clean\Kabupaten_Morowali.csv
+Data points above first quartile rating: 124
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 124
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Morowali_Utara.csv
+Data points above first quartile rating: 43
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 43
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Muara_Enim.csv
+Data points above first quartile rating: 111
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 111
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Muaro_Jambi.csv
+Data points above first quartile rating: 105
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 105
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Muna.csv
+Data points above first quartile rating: 57
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 57
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Muna_Barat.csv
+Data points above first quartile rating: 53
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 53
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Murung_Raya.csv
+Data points above first quartile rating: 78
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 78
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Musi_Banyuasin.csv
+Data points above first quartile rating: 68
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 68
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Musi_Rawas.csv
+Data points above first quartile rating: 93
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 93
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Musi_Rawas_Utara.csv
+Data points above first quartile rating: 73
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 73
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Nabire.csv
+Data points above first quartile rating: 52
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 52
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Nagan_Raya.csv
+Data points above first quartile rating: 74
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 74
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Nagekeo.csv
+Data points above first quartile rating: 60
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 60
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Natuna.csv
+Data points above first quartile rating: 100
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 100
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Nduga.csv
+Data points above first quartile rating: 69
+Data points below first quartile rating: 23
+Data points above first quartile user ratings total: 63
+Data points below first quartile user ratings total: 21
+
+Processing TA_DS_clean\Kabupaten_Ngada.csv
+Data points above first quartile rating: 82
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 82
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Nganjuk.csv
+Data points above first quartile rating: 165
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 165
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Ngawi.csv
+Data points above first quartile rating: 176
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 176
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Nias.csv
+Data points above first quartile rating: 99
+Data points below first quartile rating: 33
+Data points above first quartile user ratings total: 81
+Data points below first quartile user ratings total: 30
+
+Processing TA_DS_clean\Kabupaten_Nias_Barat.csv
+Data points above first quartile rating: 44
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 44
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Nias_Selatan.csv
+Data points above first quartile rating: 72
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 72
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Nias_Utara.csv
+Data points above first quartile rating: 64
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 64
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Nunukan.csv
+Data points above first quartile rating: 74
+Data points below first quartile rating: 25
+Data points above first quartile user ratings total: 62
+Data points below first quartile user ratings total: 18
+
+Processing TA_DS_clean\Kabupaten_Ogan_Ilir.csv
+Data points above first quartile rating: 81
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 81
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Ogan_Komering_Ilir.csv
+Data points above first quartile rating: 126
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 126
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Ogan_Komering_Ulu.csv
+Data points above first quartile rating: 118
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 118
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Ogan_Komering_Ulu_Selatan.csv
+Data points above first quartile rating: 68
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 68
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Ogan_Komering_Ulu_Timur.csv
+Data points above first quartile rating: 113
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 113
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pacitan.csv
+Data points above first quartile rating: 294
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 294
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Padang_Lawas.csv
+Data points above first quartile rating: 57
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 57
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Padang_Lawas_Utara.csv
+Data points above first quartile rating: 83
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 83
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Padang_Pariaman.csv
+Data points above first quartile rating: 148
+Data points below first quartile rating: 50
+Data points above first quartile user ratings total: 131
+Data points below first quartile user ratings total: 35
+
+Processing TA_DS_clean\Kabupaten_Pakpak_Bharat.csv
+Data points above first quartile rating: 57
+Data points below first quartile rating: 19
+Data points above first quartile user ratings total: 43
+Data points below first quartile user ratings total: 19
+
+Processing TA_DS_clean\Kabupaten_Pamekasan.csv
+Data points above first quartile rating: 118
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 118
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pandeglang.csv
+Data points above first quartile rating: 303
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 303
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pangandaran.csv
+Data points above first quartile rating: 237
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 237
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pangkajene_Dan_Kepulauan.csv
+Data points above first quartile rating: 103
+Data points below first quartile rating: 34
+Data points above first quartile user ratings total: 77
+Data points below first quartile user ratings total: 29
+
+Processing TA_DS_clean\Kabupaten_Paniai.csv
+Data points above first quartile rating: 44
+Data points below first quartile rating: 15
+Data points above first quartile user ratings total: 44
+Data points below first quartile user ratings total: 15
+
+Processing TA_DS_clean\Kabupaten_Parigi_Moutong.csv
+Data points above first quartile rating: 128
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 128
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pasaman.csv
+Data points above first quartile rating: 77
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 77
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pasaman_Barat.csv
+Data points above first quartile rating: 107
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 107
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Paser.csv
+Data points above first quartile rating: 125
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 125
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pasuruan.csv
+Data points above first quartile rating: 341
+Data points below first quartile rating: 114
+Data points above first quartile user ratings total: 299
+Data points below first quartile user ratings total: 107
+
+Processing TA_DS_clean\Kabupaten_Pati.csv
+Data points above first quartile rating: 283
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 283
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pegunungan_Bintang.csv
+Data points above first quartile rating: 17
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 17
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pekalongan.csv
+Data points above first quartile rating: 193
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 193
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pelalawan.csv
+Data points above first quartile rating: 125
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 125
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pemalang.csv
+Data points above first quartile rating: 211
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 211
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Penajam_Paser_Utara.csv
+Data points above first quartile rating: 70
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 70
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Penukal_Abab_Lematang_Ilir.csv
+Data points above first quartile rating: 95
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 95
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pesawaran.csv
+Data points above first quartile rating: 219
+Data points below first quartile rating: 73
+Data points above first quartile user ratings total: 181
+Data points below first quartile user ratings total: 73
+
+Processing TA_DS_clean\Kabupaten_Pesisir_Barat.csv
+Data points above first quartile rating: 74
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 74
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pesisir_Selatan.csv
+Data points above first quartile rating: 167
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 167
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pidie.csv
+Data points above first quartile rating: 76
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 76
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pidie_Jaya.csv
+Data points above first quartile rating: 59
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 59
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pinrang.csv
+Data points above first quartile rating: 104
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 104
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pohuwato.csv
+Data points above first quartile rating: 36
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 36
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Polewali_Mandar.csv
+Data points above first quartile rating: 133
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 133
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Ponorogo.csv
+Data points above first quartile rating: 263
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 263
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Poso.csv
+Data points above first quartile rating: 94
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 94
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pringsewu.csv
+Data points above first quartile rating: 94
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 94
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Probolinggo.csv
+Data points above first quartile rating: 297
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 297
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pulang_Pisau.csv
+Data points above first quartile rating: 98
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 98
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Pulau_Morotai.csv
+Data points above first quartile rating: 49
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 49
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Puncak.csv
+Data points above first quartile rating: 14
+Data points below first quartile rating: 4
+Data points above first quartile user ratings total: 14
+Data points below first quartile user ratings total: 4
+
+Processing TA_DS_clean\Kabupaten_Puncak_Jaya.csv
+Data points above first quartile rating: 14
+Data points below first quartile rating: 5
+Data points above first quartile user ratings total: 10
+Data points below first quartile user ratings total: 4
+
+Processing TA_DS_clean\Kabupaten_Purbalingga.csv
+Data points above first quartile rating: 223
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 223
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Purwakarta.csv
+Data points above first quartile rating: 201
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 201
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Purworejo.csv
+Data points above first quartile rating: 334
+Data points below first quartile rating: 112
+Data points above first quartile user ratings total: 253
+Data points below first quartile user ratings total: 112
+
+Processing TA_DS_clean\Kabupaten_Raja_Ampat.csv
+Data points above first quartile rating: 70
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 70
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Rembang.csv
+Data points above first quartile rating: 174
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 174
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Rokan_Hilir.csv
+Data points above first quartile rating: 76
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 76
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Rokan_Hulu.csv
+Data points above first quartile rating: 80
+Data points below first quartile rating: 27
+Data points above first quartile user ratings total: 70
+Data points below first quartile user ratings total: 23
+
+Processing TA_DS_clean\Kabupaten_Rote_Ndao.csv
+Data points above first quartile rating: 115
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 115
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sabu_Raijua.csv
+Data points above first quartile rating: 59
+Data points below first quartile rating: 20
+Data points above first quartile user ratings total: 59
+Data points below first quartile user ratings total: 20
+
+Processing TA_DS_clean\Kabupaten_Sambas.csv
+Data points above first quartile rating: 134
+Data points below first quartile rating: 45
+Data points above first quartile user ratings total: 123
+Data points below first quartile user ratings total: 35
+
+Processing TA_DS_clean\Kabupaten_Samosir.csv
+Data points above first quartile rating: 164
+Data points below first quartile rating: 55
+Data points above first quartile user ratings total: 145
+Data points below first quartile user ratings total: 53
+
+Processing TA_DS_clean\Kabupaten_Sampang.csv
+Data points above first quartile rating: 97
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 97
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sanggau.csv
+Data points above first quartile rating: 128
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 128
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sarmi.csv
+Data points above first quartile rating: 29
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 29
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sarolangun.csv
+Data points above first quartile rating: 94
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 94
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sekadau.csv
+Data points above first quartile rating: 93
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 93
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Semarang.csv
+Data points above first quartile rating: 368
+Data points below first quartile rating: 121
+Data points above first quartile user ratings total: 317
+Data points below first quartile user ratings total: 110
+
+Processing TA_DS_clean\Kabupaten_Seram_Bagian_Barat.csv
+Data points above first quartile rating: 36
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 36
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Seram_Bagian_Timur.csv
+Data points above first quartile rating: 7
+Data points below first quartile rating: 3
+Data points above first quartile user ratings total: 4
+Data points below first quartile user ratings total: 2
+
+Processing TA_DS_clean\Kabupaten_Serang.csv
+Data points above first quartile rating: 378
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 378
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Serdang_Bedagai.csv
+Data points above first quartile rating: 122
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 122
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Seruyan.csv
+Data points above first quartile rating: 69
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 69
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Siak.csv
+Data points above first quartile rating: 114
+Data points below first quartile rating: 38
+Data points above first quartile user ratings total: 94
+Data points below first quartile user ratings total: 35
+
+Processing TA_DS_clean\Kabupaten_Sidenreng_Rappang.csv
+Data points above first quartile rating: 80
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 80
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sidoarjo.csv
+Data points above first quartile rating: 175
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 175
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sigi.csv
+Data points above first quartile rating: 80
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 80
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sijunjung.csv
+Data points above first quartile rating: 258
+Data points below first quartile rating: 86
+Data points above first quartile user ratings total: 225
+Data points below first quartile user ratings total: 77
+
+Processing TA_DS_clean\Kabupaten_Sikka.csv
+Data points above first quartile rating: 129
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 129
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Simalungun.csv
+Data points above first quartile rating: 197
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 197
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Simeulue.csv
+Data points above first quartile rating: 65
+Data points below first quartile rating: 22
+Data points above first quartile user ratings total: 43
+Data points below first quartile user ratings total: 21
+
+Processing TA_DS_clean\Kabupaten_Sinjai.csv
+Data points above first quartile rating: 90
+Data points below first quartile rating: 30
+Data points above first quartile user ratings total: 80
+Data points below first quartile user ratings total: 27
+
+Processing TA_DS_clean\Kabupaten_Sintang.csv
+Data points above first quartile rating: 88
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 88
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Situbondo.csv
+Data points above first quartile rating: 133
+Data points below first quartile rating: 46
+Data points above first quartile user ratings total: 130
+Data points below first quartile user ratings total: 35
+
+Processing TA_DS_clean\Kabupaten_Solok.csv
+Data points above first quartile rating: 153
+Data points below first quartile rating: 50
+Data points above first quartile user ratings total: 148
+Data points below first quartile user ratings total: 37
+
+Processing TA_DS_clean\Kabupaten_Solok_Selatan.csv
+Data points above first quartile rating: 23
+Data points below first quartile rating: 8
+Data points above first quartile user ratings total: 22
+Data points below first quartile user ratings total: 4
+
+Processing TA_DS_clean\Kabupaten_Soppeng.csv
+Data points above first quartile rating: 54
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 54
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sorong.csv
+Data points above first quartile rating: 74
+Data points below first quartile rating: 25
+Data points above first quartile user ratings total: 55
+Data points below first quartile user ratings total: 23
+
+Processing TA_DS_clean\Kabupaten_Sorong_Selatan.csv
+Data points above first quartile rating: 2
+Data points below first quartile rating: 1
+Data points above first quartile user ratings total: 1
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sragen.csv
+Data points above first quartile rating: 170
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 170
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Subang.csv
+Data points above first quartile rating: 281
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 281
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sukabumi.csv
+Data points above first quartile rating: 653
+Data points below first quartile rating: 218
+Data points above first quartile user ratings total: 496
+Data points below first quartile user ratings total: 208
+
+Processing TA_DS_clean\Kabupaten_Sukamara.csv
+Data points above first quartile rating: 90
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 90
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sukoharjo.csv
+Data points above first quartile rating: 162
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 162
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sumbawa.csv
+Data points above first quartile rating: 231
+Data points below first quartile rating: 77
+Data points above first quartile user ratings total: 191
+Data points below first quartile user ratings total: 72
+
+Processing TA_DS_clean\Kabupaten_Sumbawa_Barat.csv
+Data points above first quartile rating: 103
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 103
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sumba_Barat.csv
+Data points above first quartile rating: 63
+Data points below first quartile rating: 21
+Data points above first quartile user ratings total: 54
+Data points below first quartile user ratings total: 20
+
+Processing TA_DS_clean\Kabupaten_Sumba_Barat_Daya.csv
+Data points above first quartile rating: 100
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 100
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sumba_Tengah.csv
+Data points above first quartile rating: 27
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 27
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sumba_Timur.csv
+Data points above first quartile rating: 146
+Data points below first quartile rating: 49
+Data points above first quartile user ratings total: 146
+Data points below first quartile user ratings total: 49
+
+Processing TA_DS_clean\Kabupaten_Sumedang.csv
+Data points above first quartile rating: 375
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 375
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Sumenep.csv
+Data points above first quartile rating: 246
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 246
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Supiori.csv
+Data points above first quartile rating: 30
+Data points below first quartile rating: 10
+Data points above first quartile user ratings total: 23
+Data points below first quartile user ratings total: 9
+
+Processing TA_DS_clean\Kabupaten_Tabalong.csv
+Data points above first quartile rating: 80
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 80
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tabanan.csv
+Data points above first quartile rating: 236
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 236
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Takalar.csv
+Data points above first quartile rating: 78
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 78
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tambrauw.csv
+Data points above first quartile rating: 19
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 19
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tanah_Bumbu.csv
+Data points above first quartile rating: 87
+Data points below first quartile rating: 29
+Data points above first quartile user ratings total: 81
+Data points below first quartile user ratings total: 23
+
+Processing TA_DS_clean\Kabupaten_Tanah_Datar.csv
+Data points above first quartile rating: 141
+Data points below first quartile rating: 47
+Data points above first quartile user ratings total: 116
+Data points below first quartile user ratings total: 34
+
+Processing TA_DS_clean\Kabupaten_Tanah_Laut.csv
+Data points above first quartile rating: 93
+Data points below first quartile rating: 31
+Data points above first quartile user ratings total: 83
+Data points below first quartile user ratings total: 30
+
+Processing TA_DS_clean\Kabupaten_Tana_Tidung.csv
+Data points above first quartile rating: 32
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 32
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tana_Toraja.csv
+Data points above first quartile rating: 172
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 172
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tangerang.csv
+Data points above first quartile rating: 123
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 123
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tanggamus.csv
+Data points above first quartile rating: 221
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 221
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tanjung_Jabung_Barat.csv
+Data points above first quartile rating: 90
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 90
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tanjung_Jabung_Timur.csv
+Data points above first quartile rating: 103
+Data points below first quartile rating: 35
+Data points above first quartile user ratings total: 81
+Data points below first quartile user ratings total: 32
+
+Processing TA_DS_clean\Kabupaten_Tapanuli_Selatan.csv
+Data points above first quartile rating: 152
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 152
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tapanuli_Tengah.csv
+Data points above first quartile rating: 117
+Data points below first quartile rating: 38
+Data points above first quartile user ratings total: 110
+Data points below first quartile user ratings total: 27
+
+Processing TA_DS_clean\Kabupaten_Tapanuli_Utara.csv
+Data points above first quartile rating: 101
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 101
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tapin.csv
+Data points above first quartile rating: 99
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 99
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tasikmalaya.csv
+Data points above first quartile rating: 521
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 521
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tebo.csv
+Data points above first quartile rating: 150
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 150
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tegal.csv
+Data points above first quartile rating: 261
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 261
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Teluk_Bintuni.csv
+Data points above first quartile rating: 16
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 16
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Teluk_Wondama.csv
+Data points above first quartile rating: 34
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 34
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Temanggung.csv
+Data points above first quartile rating: 210
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 210
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Timor_Tengah_Selatan.csv
+Data points above first quartile rating: 114
+Data points below first quartile rating: 38
+Data points above first quartile user ratings total: 93
+Data points below first quartile user ratings total: 35
+
+Processing TA_DS_clean\Kabupaten_Timor_Tengah_Utara.csv
+Data points above first quartile rating: 82
+Data points below first quartile rating: 28
+Data points above first quartile user ratings total: 69
+Data points below first quartile user ratings total: 27
+
+Processing TA_DS_clean\Kabupaten_Toba_Samosir.csv
+Data points above first quartile rating: 141
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 141
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tojo_Una_Una.csv
+Data points above first quartile rating: 47
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 47
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tolikara.csv
+Data points above first quartile rating: 9
+Data points below first quartile rating: 3
+Data points above first quartile user ratings total: 7
+Data points below first quartile user ratings total: 3
+
+Processing TA_DS_clean\Kabupaten_Toli_Toli.csv
+Data points above first quartile rating: 70
+Data points below first quartile rating: 23
+Data points above first quartile user ratings total: 53
+Data points below first quartile user ratings total: 23
+
+Processing TA_DS_clean\Kabupaten_Toraja_Utara.csv
+Data points above first quartile rating: 162
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 162
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Trenggalek.csv
+Data points above first quartile rating: 216
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 216
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tuban.csv
+Data points above first quartile rating: 215
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 215
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tulang_Bawang.csv
+Data points above first quartile rating: 79
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 79
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tulang_Bawang_Barat.csv
+Data points above first quartile rating: 62
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 62
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Tulungagung.csv
+Data points above first quartile rating: 266
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 266
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Wajo.csv
+Data points above first quartile rating: 51
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 51
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Wakatobi.csv
+Data points above first quartile rating: 27
+Data points below first quartile rating: 9
+Data points above first quartile user ratings total: 26
+Data points below first quartile user ratings total: 8
+
+Processing TA_DS_clean\Kabupaten_Waropen.csv
+Data points above first quartile rating: 28
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 28
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Way_Kanan.csv
+Data points above first quartile rating: 104
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 104
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Wonogiri.csv
+Data points above first quartile rating: 289
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 289
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Wonosobo.csv
+Data points above first quartile rating: 268
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 268
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Yahukimo.csv
+Data points above first quartile rating: 44
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 44
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kabupaten_Yalimo.csv
+Data points above first quartile rating: 20
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 20
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kab_Kepulauan_Seribu.csv
+Data points above first quartile rating: 37
+Data points below first quartile rating: 13
+Data points above first quartile user ratings total: 33
+Data points below first quartile user ratings total: 12
+
+Processing TA_DS_clean\Kota_Ambon.csv
+Data points above first quartile rating: 93
+Data points below first quartile rating: 31
+Data points above first quartile user ratings total: 93
+Data points below first quartile user ratings total: 31
+
+Processing TA_DS_clean\Kota_Balikpapan.csv
+Data points above first quartile rating: 120
+Data points below first quartile rating: 40
+Data points above first quartile user ratings total: 98
+Data points below first quartile user ratings total: 40
+
+Processing TA_DS_clean\Kota_Bandar_Lampung.csv
+Data points above first quartile rating: 155
+Data points below first quartile rating: 51
+Data points above first quartile user ratings total: 134
+Data points below first quartile user ratings total: 43
+
+Processing TA_DS_clean\Kota_Banda_Aceh.csv
+Data points above first quartile rating: 70
+Data points below first quartile rating: 24
+Data points above first quartile user ratings total: 67
+Data points below first quartile user ratings total: 17
+
+Processing TA_DS_clean\Kota_Bandung.csv
+Data points above first quartile rating: 276
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 276
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Banjar.csv
+Data points above first quartile rating: 73
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 73
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Banjarbaru.csv
+Data points above first quartile rating: 97
+Data points below first quartile rating: 32
+Data points above first quartile user ratings total: 87
+Data points below first quartile user ratings total: 23
+
+Processing TA_DS_clean\Kota_Banjarmasin.csv
+Data points above first quartile rating: 180
+Data points below first quartile rating: 56
+Data points above first quartile user ratings total: 159
+Data points below first quartile user ratings total: 54
+
+Processing TA_DS_clean\Kota_Batam.csv
+Data points above first quartile rating: 239
+Data points below first quartile rating: 80
+Data points above first quartile user ratings total: 239
+Data points below first quartile user ratings total: 80
+
+Processing TA_DS_clean\Kota_Batu.csv
+Data points above first quartile rating: 92
+Data points below first quartile rating: 32
+Data points above first quartile user ratings total: 93
+Data points below first quartile user ratings total: 23
+
+Processing TA_DS_clean\Kota_Baubau.csv
+Data points above first quartile rating: 68
+Data points below first quartile rating: 22
+Data points above first quartile user ratings total: 60
+Data points below first quartile user ratings total: 19
+
+Processing TA_DS_clean\Kota_Bekasi.csv
+Data points above first quartile rating: 122
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 122
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Biak.csv
+Data points above first quartile rating: 75
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 75
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Bima.csv
+Data points above first quartile rating: 57
+Data points below first quartile rating: 19
+Data points above first quartile user ratings total: 45
+Data points below first quartile user ratings total: 17
+
+Processing TA_DS_clean\Kota_Binjai.csv
+Data points above first quartile rating: 52
+Data points below first quartile rating: 18
+Data points above first quartile user ratings total: 44
+Data points below first quartile user ratings total: 13
+
+Processing TA_DS_clean\Kota_Bitung.csv
+Data points above first quartile rating: 75
+Data points below first quartile rating: 25
+Data points above first quartile user ratings total: 57
+Data points below first quartile user ratings total: 24
+
+Processing TA_DS_clean\Kota_Blitar.csv
+Data points above first quartile rating: 63
+Data points below first quartile rating: 22
+Data points above first quartile user ratings total: 61
+Data points below first quartile user ratings total: 18
+
+Processing TA_DS_clean\Kota_Bogor.csv
+Data points above first quartile rating: 118
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 118
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Bontang.csv
+Data points above first quartile rating: 39
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 39
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Bukittinggi.csv
+Data points above first quartile rating: 56
+Data points below first quartile rating: 19
+Data points above first quartile user ratings total: 55
+Data points below first quartile user ratings total: 13
+
+Processing TA_DS_clean\Kota_Cilegon.csv
+Data points above first quartile rating: 68
+Data points below first quartile rating: 23
+Data points above first quartile user ratings total: 58
+Data points below first quartile user ratings total: 20
+
+Processing TA_DS_clean\Kota_Cimahi.csv
+Data points above first quartile rating: 50
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 50
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Cirebon.csv
+Data points above first quartile rating: 51
+Data points below first quartile rating: 14
+Data points above first quartile user ratings total: 53
+Data points below first quartile user ratings total: 18
+
+Processing TA_DS_clean\Kota_Denpasar.csv
+Data points above first quartile rating: 86
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 86
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Depok.csv
+Data points above first quartile rating: 139
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 139
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Dumai.csv
+Data points above first quartile rating: 47
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 47
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Gorontalo.csv
+Data points above first quartile rating: 79
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 79
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Jakarta_Barat.csv
+Data points above first quartile rating: 82
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 82
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Jakarta_Pusat.csv
+Data points above first quartile rating: 71
+Data points below first quartile rating: 24
+Data points above first quartile user ratings total: 67
+Data points below first quartile user ratings total: 21
+
+Processing TA_DS_clean\Kota_Jakarta_Selatan.csv
+Data points above first quartile rating: 124
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 124
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Jakarta_Timur.csv
+Data points above first quartile rating: 137
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 137
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Jakarta_Utara.csv
+Data points above first quartile rating: 135
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 135
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Jambi.csv
+Data points above first quartile rating: 86
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 86
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Jayapura.csv
+Data points above first quartile rating: 114
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 114
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Kediri.csv
+Data points above first quartile rating: 125
+Data points below first quartile rating: 42
+Data points above first quartile user ratings total: 125
+Data points below first quartile user ratings total: 42
+
+Processing TA_DS_clean\Kota_Kendari.csv
+Data points above first quartile rating: 62
+Data points below first quartile rating: 21
+Data points above first quartile user ratings total: 53
+Data points below first quartile user ratings total: 20
+
+Processing TA_DS_clean\Kota_Kupang.csv
+Data points above first quartile rating: 67
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 67
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Lubuklinggau.csv
+Data points above first quartile rating: 51
+Data points below first quartile rating: 17
+Data points above first quartile user ratings total: 47
+Data points below first quartile user ratings total: 17
+
+Processing TA_DS_clean\Kota_Madiun.csv
+Data points above first quartile rating: 64
+Data points below first quartile rating: 22
+Data points above first quartile user ratings total: 59
+Data points below first quartile user ratings total: 20
+
+Processing TA_DS_clean\Kota_Magelang.csv
+Data points above first quartile rating: 59
+Data points below first quartile rating: 20
+Data points above first quartile user ratings total: 57
+Data points below first quartile user ratings total: 16
+
+Processing TA_DS_clean\Kota_Makassar.csv
+Data points above first quartile rating: 141
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 141
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Malang.csv
+Data points above first quartile rating: 107
+Data points below first quartile rating: 36
+Data points above first quartile user ratings total: 101
+Data points below first quartile user ratings total: 30
+
+Processing TA_DS_clean\Kota_Mamuju.csv
+Data points above first quartile rating: 43
+Data points below first quartile rating: 15
+Data points above first quartile user ratings total: 41
+Data points below first quartile user ratings total: 12
+
+Processing TA_DS_clean\Kota_Mamuju_Utara.csv
+Data points above first quartile rating: 53
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 53
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Manado.csv
+Data points above first quartile rating: 81
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 81
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Mataram.csv
+Data points above first quartile rating: 78
+Data points below first quartile rating: 23
+Data points above first quartile user ratings total: 66
+Data points below first quartile user ratings total: 22
+
+Processing TA_DS_clean\Kota_Medan.csv
+Data points above first quartile rating: 116
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 116
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Metro.csv
+Data points above first quartile rating: 53
+Data points below first quartile rating: 15
+Data points above first quartile user ratings total: 53
+Data points below first quartile user ratings total: 10
+
+Processing TA_DS_clean\Kota_Mojokerto.csv
+Data points above first quartile rating: 61
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 61
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Padang.csv
+Data points above first quartile rating: 197
+Data points below first quartile rating: 66
+Data points above first quartile user ratings total: 170
+Data points below first quartile user ratings total: 65
+
+Processing TA_DS_clean\Kota_Padang_Panjang.csv
+Data points above first quartile rating: 72
+Data points below first quartile rating: 23
+Data points above first quartile user ratings total: 67
+Data points below first quartile user ratings total: 17
+
+Processing TA_DS_clean\Kota_Pagar_Alam.csv
+Data points above first quartile rating: 62
+Data points below first quartile rating: 21
+Data points above first quartile user ratings total: 52
+Data points below first quartile user ratings total: 19
+
+Processing TA_DS_clean\Kota_Palangka_Raya.csv
+Data points above first quartile rating: 97
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 97
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Palembang.csv
+Data points above first quartile rating: 128
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 128
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Palopo.csv
+Data points above first quartile rating: 51
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 51
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Palu.csv
+Data points above first quartile rating: 84
+Data points below first quartile rating: 27
+Data points above first quartile user ratings total: 69
+Data points below first quartile user ratings total: 27
+
+Processing TA_DS_clean\Kota_Pangkal_Pinang.csv
+Data points above first quartile rating: 77
+Data points below first quartile rating: 25
+Data points above first quartile user ratings total: 65
+Data points below first quartile user ratings total: 25
+
+Processing TA_DS_clean\Kota_Parepare.csv
+Data points above first quartile rating: 49
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 49
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Pariaman.csv
+Data points above first quartile rating: 61
+Data points below first quartile rating: 21
+Data points above first quartile user ratings total: 61
+Data points below first quartile user ratings total: 21
+
+Processing TA_DS_clean\Kota_Pasuruan.csv
+Data points above first quartile rating: 52
+Data points below first quartile rating: 19
+Data points above first quartile user ratings total: 57
+Data points below first quartile user ratings total: 13
+
+Processing TA_DS_clean\Kota_Payakumbuh.csv
+Data points above first quartile rating: 63
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 63
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Pekalongan.csv
+Data points above first quartile rating: 58
+Data points below first quartile rating: 20
+Data points above first quartile user ratings total: 46
+Data points below first quartile user ratings total: 19
+
+Processing TA_DS_clean\Kota_Pekanbaru.csv
+Data points above first quartile rating: 115
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 115
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Pematang_Siantar.csv
+Data points above first quartile rating: 45
+Data points below first quartile rating: 15
+Data points above first quartile user ratings total: 34
+Data points below first quartile user ratings total: 14
+
+Processing TA_DS_clean\Kota_Pontianak.csv
+Data points above first quartile rating: 58
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 58
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Prabumulih.csv
+Data points above first quartile rating: 34
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 34
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Probolinggo.csv
+Data points above first quartile rating: 46
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 46
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Salatiga.csv
+Data points above first quartile rating: 57
+Data points below first quartile rating: 19
+Data points above first quartile user ratings total: 57
+Data points below first quartile user ratings total: 19
+
+Processing TA_DS_clean\Kota_Samarinda.csv
+Data points above first quartile rating: 130
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 130
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Sawahlunto.csv
+Data points above first quartile rating: 63
+Data points below first quartile rating: 22
+Data points above first quartile user ratings total: 64
+Data points below first quartile user ratings total: 20
+
+Processing TA_DS_clean\Kota_Semarang.csv
+Data points above first quartile rating: 101
+Data points below first quartile rating: 33
+Data points above first quartile user ratings total: 88
+Data points below first quartile user ratings total: 31
+
+Processing TA_DS_clean\Kota_Serang.csv
+Data points above first quartile rating: 89
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 89
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Singkawang.csv
+Data points above first quartile rating: 57
+Data points below first quartile rating: 19
+Data points above first quartile user ratings total: 57
+Data points below first quartile user ratings total: 19
+
+Processing TA_DS_clean\Kota_Soe.csv
+Data points above first quartile rating: 22
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 22
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Sorong.csv
+Data points above first quartile rating: 58
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 58
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Sukabumi.csv
+Data points above first quartile rating: 65
+Data points below first quartile rating: 21
+Data points above first quartile user ratings total: 56
+Data points below first quartile user ratings total: 18
+
+Processing TA_DS_clean\Kota_Surabaya.csv
+Data points above first quartile rating: 192
+Data points below first quartile rating: 64
+Data points above first quartile user ratings total: 174
+Data points below first quartile user ratings total: 62
+
+Processing TA_DS_clean\Kota_Surakarta.csv
+Data points above first quartile rating: 71
+Data points below first quartile rating: 21
+Data points above first quartile user ratings total: 66
+Data points below first quartile user ratings total: 21
+
+Processing TA_DS_clean\Kota_Taman.csv
+Data points above first quartile rating: 72
+Data points below first quartile rating: 17
+Data points above first quartile user ratings total: 73
+Data points below first quartile user ratings total: 25
+
+Processing TA_DS_clean\Kota_Tangerang.csv
+Data points above first quartile rating: 159
+Data points below first quartile rating: 53
+Data points above first quartile user ratings total: 132
+Data points below first quartile user ratings total: 48
+
+Processing TA_DS_clean\Kota_Tangerang_Selatan.csv
+Data points above first quartile rating: 109
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 109
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Tanjungbalai.csv
+Data points above first quartile rating: 40
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 40
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Tanjung_Pinang.csv
+Data points above first quartile rating: 46
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 46
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Tarakan.csv
+Data points above first quartile rating: 44
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 44
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Tasikmalaya.csv
+Data points above first quartile rating: 72
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 72
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Tebing_Tinggi.csv
+Data points above first quartile rating: 82
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 82
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Tegal.csv
+Data points above first quartile rating: 65
+Data points below first quartile rating: 21
+Data points above first quartile user ratings total: 62
+Data points below first quartile user ratings total: 19
+
+Processing TA_DS_clean\Kota_Ternate.csv
+Data points above first quartile rating: 54
+Data points below first quartile rating: 18
+Data points above first quartile user ratings total: 41
+Data points below first quartile user ratings total: 18
+
+Processing TA_DS_clean\Kota_Tidore_Kepulauan.csv
+Data points above first quartile rating: 45
+Data points below first quartile rating: 15
+Data points above first quartile user ratings total: 41
+Data points below first quartile user ratings total: 10
+
+Processing TA_DS_clean\Kota_Tomohon.csv
+Data points above first quartile rating: 71
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 71
+Data points below first quartile user ratings total: 0
+
+Processing TA_DS_clean\Kota_Tual.csv
+Data points above first quartile rating: 43
+Data points below first quartile rating: 0
+Data points above first quartile user ratings total: 43
+Data points below first quartile user ratings total: 0
+
