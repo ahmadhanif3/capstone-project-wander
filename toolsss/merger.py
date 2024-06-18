@@ -2,11 +2,11 @@ import os
 import pandas as pd
 
 # Specify the folder containing CSV files
-folder_path = r'//folder to merge'
+folder_path = r'C:\Users\ACER\Documents\Capstone\TA_DS_clean'
 
 # Ensure the output directory exists
-output_folder = r'//where you gonna put the merged files'
-output_filename = 'merged_output.csv'
+output_folder = r'C:\Users\ACER\Documents\Capstone'
+output_filename = 'merged_TA.csv'
 output_path = os.path.join(output_folder, output_filename)
 
 # List all files in the folder
